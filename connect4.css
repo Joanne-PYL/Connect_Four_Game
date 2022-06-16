@@ -1,0 +1,32 @@
+.container{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title{
+  color:white;
+}
+
+.board button {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 50%;
+  border: 5px solid #c6842d; /*this gets rid of bootstrap shadow*/
+  margin: 1px;
+}
+
+.board{
+  background-color: #eba243;
+  border-radius: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.restart{
+  margin:20px;
+}
+
+body{
+background-image: -webkit-linear-gradient(left,blue,red);
+}
